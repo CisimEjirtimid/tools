@@ -63,6 +63,7 @@
     <ClInclude Include="range.h" />
     <ClInclude Include="log_lock.h" />
     <ClInclude Include="tuple.h" />
+    <ClInclude Include="strcmp_functor.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="mdsp_common">

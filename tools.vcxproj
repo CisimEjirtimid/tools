@@ -34,6 +34,7 @@
     <ClInclude Include="mdsp_common\wrapper.h" />
     <ClInclude Include="range.h" />
     <ClInclude Include="singleton.h" />
+    <ClInclude Include="strcmp_functor.h" />
     <ClInclude Include="thread.h" />
     <ClInclude Include="tuple.h" />
     <ClInclude Include="type_tuple.h" />
