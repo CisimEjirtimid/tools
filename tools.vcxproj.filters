@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="for.h" />
+    <ClInclude Include="enum_wrapper.h" />
+    <ClInclude Include="singleton.h" />
+    <ClInclude Include="thread.h" />
+    <ClInclude Include="type_tuple.h" />
+    <ClInclude Include="mdsp_common\awaitable.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\channel.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\config_builder.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\count_condition.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\enum_bitmask.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\mdsp_types.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\meta.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\static_mx.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\static_vec.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\sync_queue.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\timestamp.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\value_match.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\variant_match.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\coordinate.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\wrapper.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\geo_convert.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\mdsp_nan.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="mdsp_common\strong_typedef.h">
+      <Filter>mdsp_common</Filter>
+    </ClInclude>
+    <ClInclude Include="range.h" />
+    <ClInclude Include="log_lock.h" />
+    <ClInclude Include="tuple.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="mdsp_common">
+      <UniqueIdentifier>{b7b44fc8-67ae-409a-9bec-b1406342fb98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
