@@ -64,6 +64,7 @@
     <ClInclude Include="log_lock.h" />
     <ClInclude Include="tuple.h" />
     <ClInclude Include="strcmp_functor.h" />
+    <ClInclude Include="construct_array.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="mdsp_common">

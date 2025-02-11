@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="construct_array.h" />
     <ClInclude Include="enum_wrapper.h" />
     <ClInclude Include="for.h" />
     <ClInclude Include="log_lock.h" />
